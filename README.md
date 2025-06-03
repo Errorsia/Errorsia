@@ -46,6 +46,8 @@ Others:
 ## 联系我们 | Contact Us
 
 - 电子邮件/Email：<Errorsia@outlook.com>
+- 部分成员的邮件:
+    1. Ariskanyaa <Ariskanyaa@outlook.com>
 
 <!--
 **Errorsia/Errorsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
