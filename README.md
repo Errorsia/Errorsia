@@ -1,6 +1,6 @@
 # 你好 ! 欢迎来到Errorsia的Github主页
 
-### 你是第![Visitors](https://count.kjchmc.cn/get/@errorsia?theme=asoul)位访客
+## 你是第![Visitors](https://count.kjchmc.cn/get/@errorsia?theme=asoul)位访客
 
 ---
 
@@ -33,7 +33,7 @@ Frameworks:
 
 OS:
 
-![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
 
 Embedded:
 
