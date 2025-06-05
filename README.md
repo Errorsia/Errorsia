@@ -47,7 +47,7 @@ Others:
 
 - 电子邮件/Email：<Errorsia@outlook.com>
 - 部分成员的邮件:
-    1. [Ariskanyaa](https://github.com/Ariskanyaa) <Ariskanyaa@outlook.com>
+    1. [Ariskanyaa](https://github.com/Ariskanyaa) - <Ariskanyaa@outlook.com>
 
 ## 我们的合作伙伴 | Our partners
 
