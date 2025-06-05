@@ -49,7 +49,7 @@ Others:
 - 部分成员的邮件:
     1. [Ariskanyaa](https://github.com/Ariskanyaa) <Ariskanyaa@outlook.com>
 
-## 我们的合作伙伴
+## 我们的合作伙伴 | Our partners
 
 - [KWYTech](https://github.com/kwytech)
 
