@@ -49,6 +49,10 @@ Others:
 - 部分成员的邮件:
     1. [Ariskanyaa](https://github.com/Ariskanyaa) <Ariskanyaa@outlook.com>
 
+## 我们的合作伙伴
+
+- [KWYTech](https://github.com/kwytech)
+
 <!--
 **Errorsia/Errorsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
