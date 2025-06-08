@@ -27,6 +27,7 @@ Stylesheet:
 Markup Languages:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white)
+
 Frameworks:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)![Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
