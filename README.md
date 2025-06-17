@@ -52,6 +52,7 @@ Others:
 
 ## 我们的合作伙伴 | Our partners
 
+- [Nanflas202202](https://github.com/Nanflas202202)
 - [KWYTech](https://github.com/kwytech)
 
 <!--
