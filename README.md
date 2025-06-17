@@ -42,7 +42,7 @@ Embedded:
 
 Others:
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![Office](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-darkgreen?style=flat-square)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![Office](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-darkgreen?style=flat-square) ![Steam](https://img.shields.io/badge/Steam-blue?style=flat-square)
 
 ## 联系我们 | Contact Us
 
