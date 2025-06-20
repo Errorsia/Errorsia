@@ -4,9 +4,8 @@
 
 ---
 
-## 关于我们 | About us
+## About
 
-Errorsia, 一个初中生组成的工作室, 主要由Ariskanyaa担任开发。我们平时喜欢写一些~~无用~~有意思的小东西。
 Errorsia is a studio founded by a group of junior high school students, with Ariskanyaa serving as the primary developer. In our spare time, we enjoy working on ~~useless~~ intriguing and creative side projects.
 
 ## 总览 | Overview
