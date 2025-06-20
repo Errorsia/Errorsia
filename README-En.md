@@ -46,8 +46,8 @@ Others:
 
 ## Contact Us
 
-- 电子邮件/Email：<Errorsia@outlook.com>
-- 部分成员的邮件:
+- Email：<Errorsia@outlook.com>
+- Email of developers:
     1. [Ariskanyaa](https://github.com/Ariskanyaa) - <Ariskanyaa@outlook.com>
 
 ## Our partners
