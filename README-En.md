@@ -8,7 +8,7 @@
 
 Errorsia is a studio founded by a group of junior high school students, with Ariskanyaa serving as the primary developer. In our spare time, we enjoy working on ~~useless~~ intriguing and creative side projects.
 
-## 总览 | Overview
+## Overview
 
 ![Errorsia's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=buefy&username=errorsia&count_private=true&show_icons=true&include_all_commits=true#pic_left)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errorsia&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,13 +44,13 @@ Others:
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![PremierePro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![Office](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Minecraft](https://img.shields.io/badge/Minecraft-darkgreen?style=flat-square) ![Steam](https://img.shields.io/badge/Steam-blue?style=flat-square)
 
-## 联系我们 | Contact Us
+## Contact Us
 
 - 电子邮件/Email：<Errorsia@outlook.com>
 - 部分成员的邮件:
     1. [Ariskanyaa](https://github.com/Ariskanyaa) - <Ariskanyaa@outlook.com>
 
-## 我们的合作伙伴 | Our partners
+## Our partners
 
 - [Nanflas202202](https://github.com/Nanflas202202)
 - [KWYTech](https://github.com/kwytech)
