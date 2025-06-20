@@ -22,7 +22,7 @@ Programming Languages:
 
 Stylesheet:
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white#pic_left)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white#pic_left) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white#pic_left)
 
 Markup Languages:
 
