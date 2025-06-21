@@ -1,6 +1,6 @@
 # 你好 ! 欢迎来到Errorsia的Github主页
 
-## 你是第![Visitors](https://count.kjchmc.cn/get/@errorsia?theme=asoul)位访客
+## 你是第![Number of Visitors](https://count.kjchmc.cn/get/@errorsia?theme=asoul)位访客
 
 ---
 
