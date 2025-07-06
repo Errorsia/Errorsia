@@ -30,7 +30,7 @@ Stylesheet:
 
 Markup Languages:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Frameworks:
 
