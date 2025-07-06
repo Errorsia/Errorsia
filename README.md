@@ -1,3 +1,7 @@
+<!-- 语言 | Language : [简体中文](./README.md) | [English](./README-En.md)
+
+--- 
+-->
 # 你好 ! 欢迎来到Errorsia的Github主页
 
 ## 你是第![Number of Visitors](https://count.kjchmc.cn/get/@errorsia?theme=asoul)位访客
@@ -22,15 +26,15 @@ Programming Languages:
 
 Stylesheet:
 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white#pic_left) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white#pic_left)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white#pic_left) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white#pic_left) ![QSS](https://img.shields.io/badge/QSS-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Markup Languages:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![QML](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Frameworks:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white)![Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Win31API](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 OS:
 
