@@ -4,13 +4,17 @@
 
 ## About
 
-Errorsia, a high school students, works on ~~useless~~ intriguing and creative side projects.
+Errorsia, a high school student, works on ~~useless~~ intriguing and creative side projects.
 
 <!-- ## Overview -->
 
 ## Tech Stack
 
 [![My Teck Stack](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,nextjs,git,github,vscode,pycharm,qt,arduino,md,nodejs,cloudflare,windows,linux,androidstudio,apple\&perline=7)](https://skillicons.dev)
+
+## Website
+
+- [Errorsia Studio](https://errorsia.com)
 
 ## Contact Us
 
