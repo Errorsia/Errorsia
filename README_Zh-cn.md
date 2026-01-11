@@ -1,22 +1,24 @@
-# Hello! Welcome to Errorsia's GitHub Homepage
+<!-- 语言 | Language : [简体中文](./README.md) | [English](./README-En.md)
+
+--- 
+-->
+# 你好 ! 欢迎来到Errorsia的Github主页
 
 ---
 
-## About
+## 关于我们 | About
 
-Errorsia, a high school students, works on ~~useless~~ intriguing and creative side projects.
+Errorsia, 一个中学生。平时喜欢开发一些~~无用~~有意思的小东西。
 
-<!-- ## Overview -->
-
-## Tech Stack
+## 技术栈
 
 [![My Teck Stack](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,nextjs,git,github,vscode,pycharm,qt,arduino,md,nodejs,cloudflare,windows,linux,androidstudio,apple\&perline=7)](https://skillicons.dev)
 
-## Contact Us
+## 联系我们 | Contact Us
 
-- Email: <Errorsia@outlook.com>
+- 电子邮件: <Errorsia@outlook.com>
 
-## Our partners
+## 我们的合作伙伴 | Our partners
 
 - [Nanflas202202](https://github.com/Nanflas202202)
 - [KWYTech](https://github.com/kwytech)
