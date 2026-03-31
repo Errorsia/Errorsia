@@ -10,11 +10,12 @@ Errorsia, a high school student, works on ~~useless~~ intriguing and creative si
 
 ## Tech Stack
 
-[![My Teck Stack](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,nextjs,git,github,vscode,pycharm,qt,arduino,md,nodejs,cloudflare,windows,linux,androidstudio,apple\&perline=7)](https://skillicons.dev)
+[![My Teck Stack](https://skillicons.dev/icons?i=python,dart,cpp,c,java,kotlin,html,css,js,ts,flutter,nextjs,vue,nodejs,git,github,vscode,pycharm,qt,arduino,md,cloudflare,windows,linux,androidstudio,apple\&perline=9)](https://skillicons.dev)
 
 ## Website
 
-- [Errorsia Studio](https://errorsia.com)
+Domain has expired. It is not available now.
+<!-- - [Errorsia Studio](https://errorsia.com) -->
 
 ## Contact Us
 
