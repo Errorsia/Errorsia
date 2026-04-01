@@ -12,7 +12,7 @@ Errorsia, 一个中学生。平时喜欢开发一些~~无用~~有意思的小东
 
 ## 技术栈
 
-[![My Teck Stack](https://skillicons.dev/icons?i=python,cpp,c,html,css,js,ts,nextjs,git,github,vscode,pycharm,qt,arduino,md,nodejs,cloudflare,windows,linux,androidstudio,apple\&perline=7)](https://skillicons.dev)
+[![My Teck Stack](https://skillicons.dev/icons?i=python,dart,cpp,c,java,kotlin,html,css,js,ts,flutter,nextjs,vue,nodejs,git,github,vscode,pycharm,qt,arduino,md,cloudflare,windows,linux,androidstudio,apple\&perline=9)](https://skillicons.dev)
 
 ## 联系我们 | Contact Us
 
