@@ -4,7 +4,7 @@
 
 ## About
 
-Errorsia, a high school student, works on ~~useless~~ intriguing and creative side projects.
+Errorsia, works on ~~useless~~ intriguing and creative side projects while also working as an independent journalist.
 
 <!-- ## Overview -->
 
